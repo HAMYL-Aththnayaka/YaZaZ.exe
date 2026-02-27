@@ -39,7 +39,7 @@ const Navbar = () => {
 
                 {/* Nav Menu Section */}
                 <div>
-                    <ul className="flex gap-8 font-medium">
+                    <ul className="flex justify-center gap-8 font-medium">
                         {NavMenu.map((item) => (
                             <li key={item.id}>
                                 <a 

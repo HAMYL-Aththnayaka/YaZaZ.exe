@@ -6,16 +6,16 @@ export default {
   theme: {
     extend: {
       colors:{
-        primary:"#0f172a",
+        primary:"#ffc25d",
+        gray:"#333646",
+        darkGgray :"#252734"
       },
       container:{
         center:true,
         padding:{
           DEFAULT:'1rem',
           sm:'2rem',
-          lg:'4rem',
-          xl:'5rem',
-          "2xl":"6rem",
+          
         }
       }
     },
