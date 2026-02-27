@@ -29,7 +29,7 @@ const NavMenu = [
 ];
 const Navbar = () => {
     return (
-        <div className="py-4 shadow-sm">
+        <div className="py-5 bg-[color:theme('colors.gray')] text-white shadow-sm">
             <div className="container mx-auto flex justify-between items-center">
                 
                 {/* Logo Section */}
