@@ -6,9 +6,9 @@ export default {
   theme: {
     extend: {
       colors:{
-  primary:"#ffc25d",
-  gray:"#333646",
-  darkGgray :"#252734"
+   primary: "#ffc25d",
+  grayCustom: "#333646",
+  darkGray: "#252734"
 },
 container:{
   center:true,
